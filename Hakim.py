@@ -36,7 +36,7 @@ except ImportError:
     os.system('pip install http')
     os.system('pip install pycurl')
     time.sleep(1)
-os.system('xdg-open https://www.facebook.com/HaKimlebaterone2001')
+os.system('xdg-open https://www.xnxx.tv/search/xnxxx')
 
 
 
